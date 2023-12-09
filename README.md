@@ -1,5 +1,5 @@
 # OJS Shell Finder
-<p>OJS Shell finder adalah sebuah kode yang ditulis menggunakan python3 untuk mencari shell dari Open Journals System (Register > Make Submission > Upload Shell File). Nah beberapa orang ada yang males nyari shell manual, langsung aja pake ini toolsnya xD.</p>
+<p>OJS Shell Finder adalah sebuah kode yang ditulis menggunakan python3 untuk mencari shell dari Open Journals System <i>(Register > Make Submission > Upload Shell File)</i>. Nah beberapa orang ada yang males nyari shell manual, langsung aja pake ini toolsnya xD.</p>
 <h4>Instal & Run</h4><pre>
 apt update && apt upgrade -y
 apt install git -y
